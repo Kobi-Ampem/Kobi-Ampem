@@ -13,7 +13,7 @@
 
 - 🎓 **MSc Data & Artificial Intelligence** at **JUNIA ISEN**, Lille, France (Erasmus+ Scholar)
 - 🎓 **BSc Computer Engineering** at **KNUST**, Kumasi, Ghana (First Class so far)
-- CEO of **IntelliDiag**, an AI medical-imaging platform for earlier disease detection, backed by a Mastercard Foundation Africa Health Collaborative grant
+- 🩺 CEO of **IntelliDiag**, an AI medical-imaging platform for earlier disease detection, backed by a Mastercard Foundation Africa Health Collaborative grant
 - 🤖 Robotics since junior high: Ghana Robotics Competition winner as team lead, and robotics teacher to 1,000+ students across 12 schools
 - 🌍 My work centres on **healthcare and agriculture**, and on making AI practical and responsible for the people it serves
 - 💬 Ask me about **computer vision, applied ML, FastAPI backends and robotics**
