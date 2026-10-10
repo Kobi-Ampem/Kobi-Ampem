@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Kobi Ampem Afriyie, Intelligent Systems Engineer, CEO of IntelliDiag">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12081F"/>
+      <stop offset="1" stop-color="#2B0F52"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.17" cy="0.55" r="0.35">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5D0FE"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <clipPath id="type1"><rect x="330" y="62" height="26" width="0"><animate attributeName="width" from="0" to="520" begin="0.3s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type2"><rect x="330" y="90" height="26" width="0"><animate attributeName="width" from="0" to="520" begin="1.4s" dur="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="type3"><rect x="330" y="236" height="28" width="0"><animate attributeName="width" from="0" to="330" begin="4.2s" dur="1.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="900" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="300" rx="22" fill="url(#glow)"/>
+
+  <!-- twinkling sparkles -->
+  <g fill="#E9D5FF">
+    <circle cx="48" cy="44" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="262" cy="70" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="70" cy="250" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="236" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="270" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
+    <path d="M232 36 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- shadow -->
+  <ellipse cx="150" cy="268" rx="46" ry="7" fill="#000" opacity="0.35">
+    <animate attributeName="rx" values="46;38;46" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- robot -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3s" repeatCount="indefinite"/>
+    <!-- antenna -->
+    <line x1="150" y1="64" x2="150" y2="84" stroke="#C084FC" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="150" cy="58" r="7" fill="#F0ABFC">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- head -->
+    <rect x="104" y="82" width="92" height="72" rx="20" fill="url(#metal)"/>
+    <rect x="117" y="96" width="66" height="44" rx="12" fill="#1A0B2E"/>
+    <ellipse cx="137" cy="115" rx="6" ry="7" fill="#F5D0FE">
+      <animate attributeName="ry" values="7;7;0.6;7;7" keyTimes="0;0.9;0.94;0.98;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="163" cy="115" rx="6" ry="7" fill="#F5D0FE">
+      <animate attributeName="ry" values="7;7;0.6;7;7" keyTimes="0;0.9;0.94;0.98;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <path d="M140 128 Q150 135 160 128" stroke="#F5D0FE" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="125" cy="131" r="3.5" fill="#F472B6" opacity="0.7"/>
+    <circle cx="175" cy="131" r="3.5" fill="#F472B6" opacity="0.7"/>
+    <!-- neck + body -->
+    <rect x="140" y="153" width="20" height="9" fill="#6D28D9"/>
+    <rect x="112" y="161" width="76" height="62" rx="16" fill="url(#metal)"/>
+    <rect x="127" y="176" width="46" height="26" rx="8" fill="#1A0B2E"/>
+    <circle cx="139" cy="189" r="4" fill="#F0ABFC"><animate attributeName="opacity" values="1;0.2;0.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="189" r="4" fill="#C4B5FD"><animate attributeName="opacity" values="0.2;1;0.2;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="161" cy="189" r="4" fill="#A78BFA"><animate attributeName="opacity" values="0.2;0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+    <!-- left arm -->
+    <line x1="113" y1="174" x2="92" y2="206" stroke="#A855F7" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="90" cy="210" r="8" fill="#C084FC"/>
+    <!-- waving right arm -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 187 174;-28 187 174;0 187 174;-28 187 174;0 187 174;0 187 174" keyTimes="0;0.15;0.3;0.45;0.6;1" dur="3s" repeatCount="indefinite"/>
+      <line x1="187" y1="174" x2="214" y2="142" stroke="#A855F7" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="217" cy="137" r="8" fill="#C084FC"/>
+    </g>
+    <!-- wheels -->
+    <rect x="122" y="222" width="20" height="14" rx="6" fill="#6D28D9"/>
+    <rect x="158" y="222" width="20" height="14" rx="6" fill="#6D28D9"/>
+  </g>
+
+  <!-- terminal -->
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="15">
+    <circle cx="336" cy="40" r="5" fill="#F0ABFC"/>
+    <circle cx="354" cy="40" r="5" fill="#C084FC"/>
+    <circle cx="372" cy="40" r="5" fill="#7C3AED"/>
+    <text x="394" y="45" fill="#8B7AAE" font-size="13">kobi.os</text>
+
+    <text x="334" y="80" fill="#C4B5FD" clip-path="url(#type1)"><tspan fill="#F0ABFC">$</tspan> ./boot --mode=intelligent-systems</text>
+    <text x="334" y="108" fill="#A78BFA" clip-path="url(#type2)">▸ vision ✓  ▸ control ✓  ▸ backend ✓  ▸ cloud ✓</text>
+  </g>
+
+  <g font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3s" dur="0.8s" fill="freeze"/>
+    <text x="332" y="164" font-size="40" font-weight="700" fill="url(#name)">Kobi Ampem Afriyie</text>
+    <text x="334" y="198" font-size="18" fill="#E9D5FF">Intelligent Systems Engineer  ·  CEO of IntelliDiag</text>
+  </g>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="15">
+    <text x="334" y="256" fill="#C4B5FD" clip-path="url(#type3)"><tspan fill="#F0ABFC">$</tspan> status → teaching robots to think</text>
+    <rect x="664" y="242" width="9" height="18" fill="#F0ABFC" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
