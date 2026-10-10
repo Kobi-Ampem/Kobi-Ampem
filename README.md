@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👩🏾‍💻 <b>tech girlie</b> &nbsp;·&nbsp; 🤖 robot builder &nbsp;·&nbsp; ☁️ ships to production &nbsp;·&nbsp; 💜 purple everything
+  👩🏾‍💻 <b>tech girlie</b> &nbsp;·&nbsp; ☁️ ships to production &nbsp;·&nbsp; 💜 purple everything
 </p>
 
 I build **intelligent systems** from end to end: AI that lets robots see and decide, the backends that
