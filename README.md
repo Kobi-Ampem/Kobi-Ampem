@@ -1,68 +1,45 @@
-<h1 align="center">Hi, I'm Kobi Ampem Afriyie 👋</h1>
-<h3 align="center">Aspiring Intelligent Systems Engineer · AI, machine learning and the software that deploys it</h3>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="A waving purple robot next to a terminal booting kobi.os: Kobi Ampem Afriyie, Intelligent Systems Engineer, CEO of IntelliDiag"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kobi-ampem-afriyie/"><img src="https://img.shields.io/badge/LinkedIn-Kobi%20Ampem%20Afriyie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kose-labs"><img src="https://img.shields.io/badge/Building%20at-KoSe%20Labs-111111?style=for-the-badge&logo=github&logoColor=white" alt="KoSe Labs" /></a>
-  <a href="mailto:afriyieampemkobi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kobi-ampem-afriyie/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:afriyieampemkobi@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20internships-5B21B6?style=for-the-badge" alt="Open to summer 2027 internships"/>
 </p>
 
----
+<p align="center">
+  👩🏾‍💻 <b>tech girlie</b> &nbsp;·&nbsp; 🤖 robot builder &nbsp;·&nbsp; ☁️ ships to production &nbsp;·&nbsp; 💜 purple everything
+</p>
 
-### About me
+I build **intelligent systems** from end to end: AI that lets robots see and decide, the backends that
+serve those models, and the cloud that keeps them running.
 
-- 🎓 **MSc Data & Artificial Intelligence** at **JUNIA ISEN**, Lille, France (Erasmus+ Scholar)
-- 🎓 **BSc Computer Engineering** at **KNUST**, Kumasi, Ghana (First Class so far)
-- 🩺 CEO of **IntelliDiag**, an AI medical-imaging platform for earlier disease detection, backed by a Mastercard Foundation Africa Health Collaborative grant
-- 🤖 Robotics since junior high: Ghana Robotics Competition winner as team lead, and robotics teacher to 1,000+ students across 12 schools
-- 🌍 My work centres on **healthcare and agriculture**, and on making AI practical and responsible for the people it serves
-- 💬 Ask me about **computer vision, applied ML, FastAPI backends and robotics**
+## 💜 What I do
 
----
+| 🤖 AI × Robotics | ⚙️ Backend | ☁️ Cloud |
+|---|---|---|
+| Computer vision, model training and RAG, deployed on Jetson Nano, Raspberry Pi, ESP32 and Pixhawk (PX4 / ArduPilot, MAVLink) | FastAPI and Django REST APIs on PostgreSQL and Redis | AWS Certified Cloud Practitioner. Docker, Linux and CI on GitHub |
 
-### 🔨 Currently building
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,react,flutter,postgres,redis,docker,aws,linux,raspberrypi,arduino,git&perline=15" alt="Python, C++, TypeScript, FastAPI, Django, React, Flutter, PostgreSQL, Redis, Docker, AWS, Linux, Raspberry Pi, Arduino, Git"/>
+</p>
 
-- **[KoSe Labs](https://github.com/kose-labs)**: a two-person AI engineering team. We ship measured, documented AI projects in fixed sprints, working through reviewed PRs and CI.
-  - **Resume–Job Matcher** (launching October 2026): semantic CV–job matching with TF-IDF, sentence embeddings and skill extraction, evaluated against human judgments
-- **IntelliDiag**: AI-assisted medical imaging, positioned as clinical decision support
+## ✨ Quick facts
 
----
+- 🎓 **MSc Data & Artificial Intelligence** at JUNIA ISEN, France (Erasmus+ Scholar)
+- 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far)
+- 🏆 **Ghana Robotics Competition** winner as team lead, and robotics teacher to 1,000+ students
 
-### 📂 Selected projects
+## 🛠️ Things I've built
 
-| Project | What it is | Stack |
+| Project | What it does | Stack |
 |---|---|---|
 | [Telemetry IoT Engine](https://github.com/Kobi-Ampem/telemetry-iot-engine) | Multi-sensor environmental telemetry engine for cyber-physical systems | C++ |
-| [Mini Search Engine](https://github.com/Kobi-Ampem/mini-search-engine-dsa) | A small search engine built on an inverted index | Python, Streamlit |
+| [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) | Scores a CV against a job description and shows matched skills, missing skills and the evidence for each. Built at KoSe Labs | Python, sentence embeddings |
 | [EduPath](https://github.com/Kobi-Ampem/EduPath) | AI guidance for students choosing their senior high school path, in English and Twi | FastAPI, React, TypeScript |
-| [AgriConnect](https://github.com/AgriKorn/AgricConnect) | An AI agricultural marketplace | Python, TypeScript, Flutter |
+| [Mini Search Engine](https://github.com/Kobi-Ampem/mini-search-engine-dsa) | Document search on an inverted index, built from first principles | Python, Streamlit |
 
----
-
-### 🧰 Tech stack
-
-```text
-Languages     Python, C, C++, TypeScript, Dart, MicroPython
-AI & Data     Machine learning, computer vision, model training, RAG, NumPy, Pandas, Roboflow
-Backend       FastAPI, Django, REST APIs, PostgreSQL, Redis
-Frontend      React, Next.js, Flutter
-Cloud & Ops   AWS (Certified Cloud Practitioner), Docker, Linux, Git, GitHub
-Robotics      Arduino, Raspberry Pi, Jetson Nano, ESP32, Pixhawk, PX4 / ArduPilot, MAVLink, KiCad
-```
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="36" height="36"/>
+<p align="center">
+  <i>Building something with AI, robots or the cloud? Let's talk</i> 💜
 </p>
-
----
-
-<p align="center"><i>Open to AI / ML and software engineering internships for summer 2027.</i></p>
