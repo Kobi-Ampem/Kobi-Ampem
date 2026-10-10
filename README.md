@@ -22,7 +22,7 @@
 
 ### 🔨 Currently building
 
-- **[KoSe Labs](https://github.com/kose-labs)**: a two-person AI engineering team with [@Ohm-Kel](https://github.com/Ohm-Kel). We ship measured, documented AI projects in fixed sprints, working through reviewed PRs and CI.
+- **[KoSe Labs](https://github.com/kose-labs)**: a two-person AI engineering team. We ship measured, documented AI projects in fixed sprints, working through reviewed PRs and CI.
   - **Resume–Job Matcher** (launching October 2026): semantic CV–job matching with TF-IDF, sentence embeddings and skill extraction, evaluated against human judgments
 - **IntelliDiag**: AI-assisted medical imaging, positioned as clinical decision support
 
