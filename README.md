@@ -28,7 +28,7 @@ serve those models, and the cloud that keeps them running.
 ## ✨ Quick facts
 
 - 🎓 **MSc Data & Artificial Intelligence** at JUNIA ISEN, France (Erasmus+ Scholar)
-- 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far)
+- 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far, FFAF Scholar)
 - 🏆 **Ghana Robotics Competition** winner as team lead, and robotics teacher to 1,000+ students
 
 ## 🛠️ Things I've built
