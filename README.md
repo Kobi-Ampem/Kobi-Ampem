@@ -40,6 +40,13 @@ serve those models, and the cloud that keeps them running.
 | [EduPath](https://github.com/Kobi-Ampem/EduPath) | AI guidance for students choosing their senior high school path, in English and Twi | FastAPI, React, TypeScript |
 | [Mini Search Engine](https://github.com/Kobi-Ampem/mini-search-engine-dsa) | Document search on an inverted index, built from first principles | Python, Streamlit |
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kobi-Ampem&show_icons=true&count_private=true&hide=stars&bg_color=12081F&title_color=F0ABFC&text_color=E9D5FF&icon_color=C084FC&ring_color=C084FC&border_color=7C3AED&border_radius=12" alt="Kobi's GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Kobi-Ampem&background=12081F&ring=C084FC&fire=F0ABFC&currStreakNum=F5D0FE&sideNums=E9D5FF&currStreakLabel=F0ABFC&sideLabels=C4B5FD&dates=A78BFA&stroke=7C3AED&border=7C3AED&border_radius=12" alt="Kobi's GitHub streak"/>
+</p>
+
 <p align="center">
   <i>Building something with AI, robots or the cloud? Let's talk</i> 💜
 </p>
