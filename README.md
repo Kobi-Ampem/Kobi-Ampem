@@ -19,7 +19,7 @@ serve those models, and the cloud that keeps them running.
 
 | 🤖 AI × Robotics | ⚙️ Backend | ☁️ Cloud |
 |---|---|---|
-| Computer vision, model training and RAG, deployed on Jetson Nano, Raspberry Pi, ESP32 and Pixhawk (PX4 / ArduPilot, MAVLink) | FastAPI and Django REST APIs on PostgreSQL and Redis | AWS Certified Cloud Practitioner. Docker, Linux and CI on GitHub |
+| Computer vision and model training; autonomous drone navigation on PX4 / ArduPilot; Arduino, Raspberry Pi and ESP32 builds | FastAPI and Django REST APIs on PostgreSQL and Redis | AWS Certified Cloud Practitioner. Docker, Linux and CI on GitHub |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,react,flutter,postgres,redis,docker,aws,linux,raspberrypi,arduino,git&perline=15" alt="Python, C++, TypeScript, FastAPI, Django, React, Flutter, PostgreSQL, Redis, Docker, AWS, Linux, Raspberry Pi, Arduino, Git"/>
@@ -35,6 +35,7 @@ serve those models, and the cloud that keeps them running.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [AgriConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace. My backend work: PostgreSQL migration, AES-256-GCM encryption of payment numbers, a CI test gate, load testing to 150 concurrent users | TypeScript, Node.js, PostgreSQL |
 | [Telemetry IoT Engine](https://github.com/Kobi-Ampem/telemetry-iot-engine) | Multi-sensor environmental telemetry engine for cyber-physical systems | C++ |
 | [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) | Scores a CV against a job description and shows matched skills, missing skills and the evidence for each. Built at KoSe Labs | Python, sentence embeddings |
 | [EduPath](https://github.com/Kobi-Ampem/EduPath) | AI guidance for students choosing their senior high school path, in English and Twi | FastAPI, React, TypeScript |
