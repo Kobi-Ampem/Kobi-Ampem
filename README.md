@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  ·&nbsp; ☁️ ships to production 💜 &nbsp; 
+  &nbsp; ☁️ ships to production 💜 &nbsp; 
 </p>
 
 I build **intelligent systems** from end to end: AI that lets robots see and decide, the backends that
