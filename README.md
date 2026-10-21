@@ -46,7 +46,6 @@ serve those models, and the cloud that keeps them running.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kobi-Ampem&show_icons=true&count_private=true&hide=stars&bg_color=12081F&title_color=F0ABFC&text_color=E9D5FF&icon_color=C084FC&ring_color=C084FC&border_color=7C3AED&border_radius=12" alt="Kobi's GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com/?user=Kobi-Ampem&background=12081F&ring=C084FC&fire=F0ABFC&currStreakNum=F5D0FE&sideNums=E9D5FF&currStreakLabel=F0ABFC&sideLabels=C4B5FD&dates=A78BFA&stroke=7C3AED&border=7C3AED&border_radius=12" alt="Kobi's GitHub streak"/>
-  ![Profile Views](https://komarev.com)
 </p>
 
 <p align="center">
