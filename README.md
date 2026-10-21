@@ -51,3 +51,7 @@ serve those models, and the cloud that keeps them running.
 <p align="center">
   <i>Building something with AI, robots or the cloud? Let's talk</i> 💜
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kobi-Ampem&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views"/>
+</p>
