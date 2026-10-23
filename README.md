@@ -19,32 +19,31 @@ serve those models, and the cloud that keeps them running.
 
 | 🤖 AI × Robotics | ⚙️ Backend | ☁️ Cloud |
 |---|---|---|
-| Computer vision and model training; autonomous drone navigation on PX4 / ArduPilot; Arduino, Raspberry Pi and ESP32 builds | FastAPI and Django REST APIs on PostgreSQL and Redis | AWS Certified Cloud Practitioner. Docker, Linux and CI on GitHub |
+| Fine-tuned transformers, LLM agents with tools, retrieval and evaluation; computer vision; Arduino, Raspberry Pi and ESP32 builds | FastAPI and Django services on PostgreSQL, with tests in CI | AWS Certified Cloud Practitioner. Lambda, DynamoDB, Cognito, CDK and SAM, deployed from GitHub Actions over OIDC |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,react,flutter,postgres,redis,docker,aws,linux,raspberrypi,arduino,git&perline=15" alt="Python, C++, TypeScript, FastAPI, Django, React, Flutter, PostgreSQL, Redis, Docker, AWS, Linux, Raspberry Pi, Arduino, Git"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,react,postgres,docker,aws,linux,raspberrypi,arduino,git&perline=13" alt="Python, C++, TypeScript, FastAPI, Django, React, PostgreSQL, Docker, AWS, Linux, Raspberry Pi, Arduino, Git"/>
 </p>
 
 ## ✨ Quick facts
 
 - 🎓 **MSc Data & Artificial Intelligence** at JUNIA ISEN, France (Erasmus+ Scholar)
-- 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far, FFAF Scholar)
+- 🎓 **BSc Computer Engineering** at KNUST, Ghana (CWA 76.91 / 100, First Class; FFAF Scholar)
 - 🏆 **Ghana Robotics Competition** winner as team lead, and robotics teacher to 1,000+ students
 
 ## 🛠️ Things I've built
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AgriConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace. My backend work: PostgreSQL migration, AES-256-GCM encryption of payment numbers, a CI test gate, load testing to 150 concurrent users | TypeScript, Node.js, PostgreSQL |
-| [Telemetry IoT Engine](https://github.com/Kobi-Ampem/telemetry-iot-engine) | Multi-sensor environmental telemetry engine for cyber-physical systems | C++ |
-| [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) | Scores a CV against a job description and shows matched skills, missing skills and the evidence for each. Built at KoSe Labs | Python, sentence embeddings |
-| [EduPath](https://github.com/Kobi-Ampem/EduPath) | AI guidance for students choosing their senior high school path, in English and Twi | FastAPI, React, TypeScript |
-| [Mini Search Engine](https://github.com/Kobi-Ampem/mini-search-engine-dsa) | Document search on an inverted index, built from first principles | Python, Streamlit |
+| [Nwoma](https://github.com/Kobi-Ampem/nwoma) · [demo](https://kobi-ampem.github.io/nwoma/) | Reads lab reports and referral letters in English or French, scanned or digital, and exports FHIR R4. A fine-tuned XLM-R model handles most documents; a validator sends only the doubtful third to an LLM. F1 0.955 on 500 held-out synthetic documents. A tool-using coding agent raised ICD-10-CM top-1 from 49% to 93% | Python, XLM-R, Gemini, FastAPI, MCP, AWS Lambda |
+| [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) · [demo](https://kose-labs.github.io/p1-resume-job-matcher/) | Scores a CV against a job description. I led the ML: six embedding models tested against TF-IDF on 120 hand-rated pairs; none beat it, so TF-IDF stayed. Built at KoSe Labs | Python, scikit-learn, FastAPI, React |
+| [AgriConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace, 10-person team. My backend work: PostgreSQL migration, AES-256-GCM encryption of payment numbers, a CI test gate on 164 tests, load testing to 150 concurrent users | TypeScript, Node.js, PostgreSQL |
+
+**Hackathons:** 3rd place, Claude Hackathon KNUST (RouteMate) · Best All-Female Team, Cursor Hackathon KNUST ([ClinikLane](https://github.com/Kobi-Ampem/Cliniqueue)) · Winner, SHECodes Challenge, RAIL KNUST (EduPath)
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kobi-Ampem&show_icons=true&count_private=true&hide=stars&bg_color=12081F&title_color=F0ABFC&text_color=E9D5FF&icon_color=C084FC&ring_color=C084FC&border_color=7C3AED&border_radius=12" alt="Kobi's GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com/?user=Kobi-Ampem&background=12081F&ring=C084FC&fire=F0ABFC&currStreakNum=F5D0FE&sideNums=E9D5FF&currStreakLabel=F0ABFC&sideLabels=C4B5FD&dates=A78BFA&stroke=7C3AED&border=7C3AED&border_radius=12" alt="Kobi's GitHub streak"/>
 </p>
 
