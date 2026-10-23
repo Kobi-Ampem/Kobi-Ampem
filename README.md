@@ -18,7 +18,7 @@
 
 | 🤖 AI × Robotics | ⚙️ Backend | ☁️ Cloud |
 |---|---|---|
-| Fine-tuned transformers, LLM agents with tools, retrieval and evaluation; computer vision; Arduino, Raspberry Pi and ESP32 builds | FastAPI and Django services on PostgreSQL, with tests in CI | AWS Certified Cloud Practitioner. Lambda, DynamoDB, Cognito, CDK and SAM, deployed from GitHub Actions over OIDC |
+| Fine-tuned transformers, LLM agents with tools, retrieval and evaluation; computer vision; Arduino, Raspberry Pi, ev3, spike and ESP32 builds | FastAPI and Django services on PostgreSQL, with tests in CI | AWS Certified Cloud Practitioner. Lambda, DynamoDB, Cognito, CDK and SAM, deployed from GitHub Actions over OIDC |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,react,postgres,docker,aws,linux,raspberrypi,arduino,git&perline=13" alt="Python, C++, TypeScript, FastAPI, Django, React, PostgreSQL, Docker, AWS, Linux, Raspberry Pi, Arduino, Git"/>
