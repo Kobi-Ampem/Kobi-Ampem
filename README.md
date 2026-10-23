@@ -27,7 +27,7 @@
 ## ✨ Quick facts
 
 - 🎓 **MSc Data & Artificial Intelligence** at JUNIA ISEN, France (Erasmus+ Scholar)
-- 🎓 **BSc Computer Engineering** at KNUST, Ghana (CWA 76.91 / 100, First Class; FFAF Scholar)
+- 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far; FFAF Scholar)
 - 🏆 **Ghana Robotics Competition** winner as team lead, and robotics teacher to 1,000+ students
 
 ## 🛠️ Things I've built
