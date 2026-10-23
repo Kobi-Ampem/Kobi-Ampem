@@ -12,8 +12,7 @@
   &nbsp; ☁️ ships to production 💜 &nbsp; 
 </p>
 
-I build **intelligent systems** from end to end: AI that lets robots see and decide, the backends that
-serve those models, and the cloud that keeps them running.
+
 
 ## 💜 What I do
 
