@@ -38,7 +38,7 @@
 | [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) · [demo](https://kose-labs.github.io/p1-resume-job-matcher/) | Scores a CV against a job description. I led the ML: six embedding models tested against TF-IDF on 120 hand-rated pairs; none beat it, so TF-IDF stayed. Built at KoSe Labs | Python, scikit-learn, FastAPI, React |
 | [AgriConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace, 10-person team. My backend work: PostgreSQL migration, AES-256-GCM encryption of payment numbers, a CI test gate on 164 tests, load testing to 150 concurrent users | TypeScript, Node.js, PostgreSQL |
 
-**Hackathons:** 3rd place, Claude Hackathon KNUST (RouteMate) · Best All-Female Team, Cursor Hackathon KNUST ([ClinikLane](https://github.com/Kobi-Ampem/Cliniqueue)) · Winner, SHECodes Challenge, RAIL KNUST (EduPath)
+**Hackathons:** 3rd place, Claude Hackathon KNUST ([RouteMate](https://route-mate-two.vercel.app/)) · Best All-Female Team, Cursor Hackathon KNUST ([ClinikLane](https://cliniklane.vercel.app/)) · Winner, SHECodes Challenge, RAIL KNUST ([EduPath](https://edupathaii.netlify.app/))
 
 ## 📊 GitHub stats
 
