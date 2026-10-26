@@ -24,9 +24,9 @@
 - 🎓 **BSc Computer Engineering** at KNUST, Ghana (First Class so far; FFAF Scholar)
 - 🏆 **Ghana Robotics Competition** winner as team lead, and robotics teacher to 1,000+ students
 
-## ⭐ Featured: Nwoma
+## ⭐ Featured Project
 
-### [Nwoma](https://github.com/Kobi-Ampem/nwoma) · [live demo](https://kobi-ampem.github.io/nwoma/)
+<h3 align="center"><a href="https://github.com/Kobi-Ampem/nwoma">Nwoma</a> · <a href="https://kobi-ampem.github.io/nwoma/">Demo</a></h3>
 
 Reads lab reports and referral letters in English or French, scanned or digital, suggests LOINC
 and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a person verified.
@@ -36,12 +36,16 @@ and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a pers
 - **Coding agent:** Gemini with four tools assigns codes where search alone fails
 - **MCP server:** extraction, coding and FHIR export available to AI assistants
 
+<div align="center">
+
 | On 500 held-out synthetic documents | Result |
 |---|---|
 | Field F1 (cascade) | **0.955** |
 | Documents sent to the LLM | **33%** |
 | ICD-10-CM top-1 with the coding agent | **49% → 93%** |
 | LOINC top-1 with the coding agent | **64% → 85%** |
+
+</div>
 
 `Python` `XLM-R` `Gemini` `FastAPI` `MCP` `AWS Lambda` `FHIR R4`
 
@@ -59,7 +63,7 @@ and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a pers
 <br/>
 
 <p align="center">
-  <img height="120" src="https://streak-stats.demolab.com/?user=Kobi-Ampem&background=12081F&ring=C084FC&fire=F0ABFC&currStreakNum=F5D0FE&sideNums=E9D5FF&currStreakLabel=F0ABFC&sideLabels=C4B5FD&dates=A78BFA&stroke=7C3AED&border=7C3AED&border_radius=12" alt="Kobi's GitHub streak"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=Kobi-Ampem&background=12081F&ring=C084FC&fire=F0ABFC&currStreakNum=F5D0FE&sideNums=E9D5FF&currStreakLabel=F0ABFC&sideLabels=C4B5FD&dates=A78BFA&stroke=7C3AED&border=7C3AED&border_radius=12" alt="Kobi's GitHub streak"/>
 </p>
 
 <p align="center">
