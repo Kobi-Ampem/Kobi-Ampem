@@ -38,12 +38,12 @@ and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a pers
 
 <div align="center">
 
-| On 500 held-out synthetic documents | Result |
+| On held-out synthetic documents | Result |
 |---|---|
-| Field F1 (cascade) | **0.955** |
-| Documents sent to the LLM | **33%** |
-| ICD-10-CM top-1 with the coding agent | **49% → 93%** |
-| LOINC top-1 with the coding agent | **64% → 85%** |
+| Field F1, cascade (500 documents) | **0.955** |
+| Documents sent to the LLM (500 documents) | **33%** |
+| ICD-10-CM top-1 with the coding agent (40 documents) | **49% → 93%** |
+| LOINC top-1 with the coding agent (40 documents) | **64% → 85%** |
 
 `Python` `XLM-R` `Gemini` `FastAPI` `MCP` `AWS Lambda` `FHIR R4`
 
