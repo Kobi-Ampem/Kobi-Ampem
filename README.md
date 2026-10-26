@@ -45,9 +45,9 @@ and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a pers
 | ICD-10-CM top-1 with the coding agent | **49% → 93%** |
 | LOINC top-1 with the coding agent | **64% → 85%** |
 
-</div>
-
 `Python` `XLM-R` `Gemini` `FastAPI` `MCP` `AWS Lambda` `FHIR R4`
+
+</div>
 
 ## 🛠️ Also built
 
