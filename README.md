@@ -51,12 +51,16 @@ and ICD-10-CM codes, and exports a FHIR R4 record that shows which fields a pers
 
 ## 🛠️ Also built
 
+<div align="center">
+
 | Project | What it does | Stack |
 |---|---|---|
 | [AsaaseTom Guard](https://github.com/Kobi-Ampem/asaase-tom-guard) | Tomato disease detection robot. Two YOLOv8 detectors (leaf mAP50 0.93), a Raspberry Pi patrol and Arduino firmware with safety reflexes over a checksummed UART link. 1st place (JHS category), RAIL Robotics Challenge, KNUST 2026; I trained and mentored the team | Python, YOLOv8, C++, Arduino, Raspberry Pi |
 | [Resume–Job Matcher](https://github.com/kose-labs/p1-resume-job-matcher) · [demo](https://kose-labs.github.io/p1-resume-job-matcher/) | Scores a CV against a job description. I led the ML: six embedding models tested against TF-IDF on 120 hand-rated pairs; none beat it, so TF-IDF stayed. Built at KoSe Labs | Python, scikit-learn, FastAPI, React |
 | [AgriConnect](https://github.com/AgriKorn/AgricConnect) | Farm marketplace, 10-person team. My backend work: PostgreSQL migration, AES-256-GCM encryption of payment numbers, a CI test gate on 164 tests, load testing to 150 concurrent users | TypeScript, Node.js, PostgreSQL |
 | [Mini Search Engine](https://github.com/Kobi-Ampem/mini-search-engine-dsa) | Coursework project: document search on an inverted index, with ranked keyword search, boolean AND / OR / NOT queries and highlighted snippets | Python, Streamlit |
+
+</div>
 
 **Hackathons:** 3rd place, Claude Hackathon KNUST ([RouteMate](https://route-mate-two.vercel.app/)) · Best All-Female Team, Cursor Hackathon KNUST ([ClinikLane](https://cliniklane.vercel.app/)) · Winner, SHECodes Challenge, RAIL KNUST ([EduPath](https://edupathaii.netlify.app/))
 
